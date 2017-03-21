@@ -1,5 +1,5 @@
 # isomorphic-event ![](https://travis-ci.org/AnnatarHe/isomorphic-event.svg?branch=master)
-a isomorphic event package
+An isomorphic event package
 
 ## usage
 
